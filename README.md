@@ -1,7 +1,10 @@
-# myStoreApp
+# rnTarifkaApp
 
-This is a simple News App. 
-I used react native 0.65 version in this project.
+This is a simple Recipe App. 
+I used react native 0.68 version in this project.
+Meals are listed according to categories by pulling data with API.
+Recipe detail pages have been arranged according to the incoming data and a direction has been added for the related video.
+
 
 <!DOCTYPE html>
 <html>
