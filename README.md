@@ -41,7 +41,6 @@ I used react native 0.65 version in this project.
 <div align="center">
             <video width="320" height="240" controls autoplay mute>
                 <source src="./src/videos/1.mp4" type="video/mp4">
-                <source src="./src/videos/1.ogg" type="video/ogg">
                 Your browser does not support the video tag.
             </video>
 </div>  
